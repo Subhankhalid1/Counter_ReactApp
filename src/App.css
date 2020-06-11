@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  height: 100vh;
+  width: auto;
+  background-color: lightslategray;
+  color: bisque;
+}
+.darkNight{
+  background-color: black;
+}
+.darkBtn{
+  background-color: lightblue;
+  height: 40px;
+  width: 85px;
+  
+}
+.subDiv{
+
+  margin-top: left;
+}
